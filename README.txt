@@ -1,4 +1,6 @@
-CrisPam README
+CrisPam - README
+
+Roy Rabinowitz, Roy Darnell, Shiri Almog and Daniel Offen
 
 31.10.2019
 
