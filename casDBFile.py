@@ -50,4 +50,5 @@ CASnames = {
     "NNVGTG": "cCas9",
     "NNVGTT": "cCas9",
     "NG": "SpCas9-NG",
+    "TTCN": "Cas12e",
 }
