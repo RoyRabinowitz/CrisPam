@@ -129,7 +129,9 @@ Roy Rabinowitz - royr2@mail.tau.ac.il
 
 Shiri Almog - shirialmog1@gmail.com
 
-Roy Darnell - 
+Roy Darnell - ristlin@gmail.com
+
+Dani Offen - doffen@post.tau.ac.il
 
 Website: [http://danioffenlab.pythonanywhere.com/CRISPAM](http://danioffenlab.pythonanywhere.com)
 
